@@ -7,7 +7,7 @@ package src;
 
 /**
  *
- * @author Heyler Sojo Aguilar
+ * @author kan7064
  */
 public class Ejemplo_patron_builder {
 
