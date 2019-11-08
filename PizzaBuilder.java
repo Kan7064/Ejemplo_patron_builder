@@ -6,7 +6,7 @@
 package src;
 
 /**
- * @author Nancy Mora Leon
+ * @author kan7064
  */
 
 // ABSTRACT BUILDER
