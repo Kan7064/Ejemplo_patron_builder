@@ -7,7 +7,7 @@ package src;
 
 /**
  *
- * @author nancy Mora León
+ * @author kan7064
  */
 
 // DIRECTOR
